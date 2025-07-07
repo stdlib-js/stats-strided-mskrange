@@ -200,10 +200,10 @@ console.log( v );
 ## See Also
 
 -   <span class="package-name">[`@stdlib/stats-strided/dmskrange`][@stdlib/stats/strided/dmskrange]</span><span class="delimiter">: </span><span class="description">calculate the range of a double-precision floating-point strided array according to a mask.</span>
--   <span class="package-name">[`@stdlib/stats-base/range`][@stdlib/stats/base/range]</span><span class="delimiter">: </span><span class="description">calculate the range of a strided array.</span>
+-   <span class="package-name">[`@stdlib/stats-strided/range`][@stdlib/stats/strided/range]</span><span class="delimiter">: </span><span class="description">calculate the range of a strided array.</span>
 -   <span class="package-name">[`@stdlib/stats-strided/mskmax`][@stdlib/stats/strided/mskmax]</span><span class="delimiter">: </span><span class="description">calculate the maximum value of a strided array according to a mask.</span>
 -   <span class="package-name">[`@stdlib/stats-strided/mskmin`][@stdlib/stats/strided/mskmin]</span><span class="delimiter">: </span><span class="description">calculate the minimum value of a strided array according to a mask.</span>
--   <span class="package-name">[`@stdlib/stats-base/nanrange`][@stdlib/stats/base/nanrange]</span><span class="delimiter">: </span><span class="description">calculate the range of a strided array, ignoring NaN values.</span>
+-   <span class="package-name">[`@stdlib/stats-strided/nanrange`][@stdlib/stats/strided/nanrange]</span><span class="delimiter">: </span><span class="description">calculate the range of a strided array, ignoring NaN values.</span>
 -   <span class="package-name">[`@stdlib/stats-strided/smskrange`][@stdlib/stats/strided/smskrange]</span><span class="delimiter">: </span><span class="description">calculate the range of a single-precision floating-point strided array according to a mask.</span>
 
 </section>
@@ -294,13 +294,13 @@ Copyright &copy; 2016-2025. The Stdlib [Authors][stdlib-authors].
 
 [@stdlib/stats/strided/dmskrange]: https://github.com/stdlib-js/stats-strided-dmskrange
 
-[@stdlib/stats/base/range]: https://github.com/stdlib-js/stats-base-range
+[@stdlib/stats/strided/range]: https://github.com/stdlib-js/stats-strided-range
 
 [@stdlib/stats/strided/mskmax]: https://github.com/stdlib-js/stats-strided-mskmax
 
 [@stdlib/stats/strided/mskmin]: https://github.com/stdlib-js/stats-strided-mskmin
 
-[@stdlib/stats/base/nanrange]: https://github.com/stdlib-js/stats-base-nanrange
+[@stdlib/stats/strided/nanrange]: https://github.com/stdlib-js/stats-strided-nanrange
 
 [@stdlib/stats/strided/smskrange]: https://github.com/stdlib-js/stats-strided-smskrange
 
